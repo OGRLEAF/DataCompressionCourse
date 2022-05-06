@@ -1,0 +1,2 @@
+huff_run.exe -i ../test/Noise.bmp -o ../test/test_out/Noise.bmp.huff -c -t ../test/test_out/Noise.bmp.txt
+huff_run.exe -i ../test/test_out/test.dpcm -o ../test/test_out/test.dpcm.huff -c -t ../test/test_out/test.dpcm.txt
